@@ -1,0 +1,10 @@
+{
+  "expo": {
+    "name": "alcolmeter",
+    "slug": "alcolmeter",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
